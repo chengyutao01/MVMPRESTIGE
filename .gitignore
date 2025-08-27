@@ -1,0 +1,7 @@
+vendor/
+uploads/
+nbproject/
+.env
+database.php
+current-files/
+nbproject/private/

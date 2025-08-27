@@ -1,0 +1,2232 @@
+[33mcommit f6a5f5c503c2e3ed4d7fa10bfa9d201974edda42[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jun 30 18:32:03 2022 +0200
+
+    debug
+
+[33mcommit 282d67c2423b8830aea2b5134dd299aaf5877fdf[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 10:58:03 2021 +0200
+
+    test-mail
+
+[33mcommit fbb631997c2a4f05f7e67ab20d5fd178865404b2[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 10:48:40 2021 +0200
+
+    test-mail
+
+[33mcommit 772177b381130ae17ef27ef157df74df494d8666[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 10:47:20 2021 +0200
+
+    test-mail
+
+[33mcommit 4628e7644b69e8444eeb36e7277f4faa2277e8cd[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 09:47:41 2021 +0200
+
+    test-mail
+
+[33mcommit bb38c5bcbb07d03b14b2c167b093e2654ad5fe40[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 09:46:22 2021 +0200
+
+    test-mail
+
+[33mcommit 6f1a3499e64fe20ee9abc9bdec577a202e081aec[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 09:44:58 2021 +0200
+
+    test-mail
+
+[33mcommit 46c82fed69c6c43580149ce52704f9be2556a43d[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 09:41:47 2021 +0200
+
+    test-mail
+
+[33mcommit 9e8327734ed631034a2076b3f1be59421719d04c[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 11 09:33:28 2021 +0200
+
+    attivazione rete extra
+
+[33mcommit 6b23a66279906c2bdb72d378e810ebe53fb8d536[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 23 17:41:44 2021 +0100
+
+    debug
+
+[33mcommit 9f68fce90ce79ec62c178db20ca06ac050130822[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 23 16:58:00 2021 +0100
+
+    debug date piene
+
+[33mcommit a4e682cafc6c7a146e53116fe2f460405b2e8d14[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 16 11:23:40 2021 +0100
+
+    debug caricamento immagini meteo e clock
+
+[33mcommit 20c7783fdb3494342eff23fb1855eab0e6830142[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Feb 12 10:50:03 2021 +0100
+
+    modifica criteri cancellazione rete e modifica gestione delle reti extra solo al root
+
+[33mcommit e6dc2cb870eb7061e6d2150d7da9f5673eb3fed9[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Feb 3 11:49:58 2021 +0100
+
+    gestione rete extra
+
+[33mcommit 8196cf9ed67ce945697f99953c1994c5b3763e22[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 18:49:37 2021 +0100
+
+    debug
+
+[33mcommit 6b3693267db9b55a3366a90c74b297b31193cd22[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 18:45:30 2021 +0100
+
+    debug
+
+[33mcommit 77dc73f35469321e6d10b7fbbdb8f7dd14f6cb01[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 18:31:19 2021 +0100
+
+    debug
+
+[33mcommit 7e31205bd67f59ab8e08e432be48e97b81ad248e[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 18:29:41 2021 +0100
+
+    debug
+
+[33mcommit 4d7b48f94fa24727ff60cd12c4fed63b95f046d6[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 18:24:05 2021 +0100
+
+    debug
+
+[33mcommit 8b7ac078b25a68c24e679380663434ba39ddec45[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 2 17:12:44 2021 +0100
+
+    gestione rete extra
+
+[33mcommit 9a9f979d706af039a9b66734429bf8020f36bf80[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Feb 1 16:20:00 2021 +0100
+
+    livello due e validazione ruoli
+
+[33mcommit 16db224f21d862540ff8a4af64aa1843193c3eeb[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Jan 20 09:34:58 2021 +0100
+
+    debug
+
+[33mcommit 9b3572c3aacc3e207d271db473621e80ce57981a[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jan 19 16:31:35 2021 +0100
+
+    5 adverts a rotazione
+
+[33mcommit 0dee4ff372a81b5a576bdbe74a9080e6b9606c21[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Jan 13 18:05:00 2021 +0100
+
+    debug
+
+[33mcommit 33c4a6590f83dbae65304d628627cb25b52cc7b6[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Nov 16 17:34:55 2020 +0100
+
+    tolto controllo max adverts da update-adevert
+
+[33mcommit 43007216f256606468271b02dd4e14140ff91306[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Nov 16 12:44:47 2020 +0100
+
+    errore su caricamenti con estensine diversa da mp4 e jpg
+
+[33mcommit 93379c06063988f73d27aeec048f51512ad2301b[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 11 23:12:23 2020 +0100
+
+    debug
+
+[33mcommit 59c1ece2458da9c7b736a227c5d9def155816aca[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 11 23:10:58 2020 +0100
+
+    debug
+
+[33mcommit b48c508bdd329a30fee138a103b0c1dbebe998b8[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 11 23:09:44 2020 +0100
+
+    debug
+
+[33mcommit a73e377be23f2ff34b041438e84ec8d5a8da741e[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 11 23:07:25 2020 +0100
+
+    patch preview per Dottasign
+
+[33mcommit 65f645309ef6d641a5cb4fb8a946aaae20a05bf2[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 11 22:45:19 2020 +0100
+
+    rete eliminabile solo se non ha alcun adverts
+
+[33mcommit 3eb164bb6333ab581f3a8514cb518d57c0e82f57[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Sep 30 16:39:34 2020 +0200
+
+    patch jpeg -> jpg
+
+[33mcommit a6498647bbf119f41540d5151a57e00a00c9fcdb[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jun 30 21:49:27 2020 +0200
+
+    debug
+
+[33mcommit da4d4bfb94cf2bd3486b913cdb2b3b4790592473[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jun 30 06:48:21 2020 +0200
+
+    m
+
+[33mcommit f07322636a394a2492eeaa1960048476852455e4[m
+Author: Alex <lioy@opentag.it>
+Date:   Sat Jun 13 09:34:36 2020 +0200
+
+    bug contatore
+
+[33mcommit 58ab981d8a6bf342c408bc33f2d0efc786599df0[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Jun 12 19:32:50 2020 +0200
+
+    bug contatore
+
+[33mcommit 229de7555ce9926c8a2359b2e1c17ed5834b6e7b[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Apr 16 23:09:52 2020 +0200
+
+    ping sul counter
+
+[33mcommit 368e9f2bc1c7b2995312d6519da705d085e45804[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 27 10:43:54 2020 +0100
+
+    debug
+
+[33mcommit 8895157559400840a1abf732d17a54cc98bd744d[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Mar 25 12:46:51 2020 +0100
+
+    config per il root
+
+[33mcommit b3817d6dc1d3aa7668f1527fb0629021f98a44f4[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 13:33:56 2020 +0100
+
+    network activity time
+
+[33mcommit d911be3044dae48bb5fa778e9f0df0864b844b9c[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 13:31:15 2020 +0100
+
+    network activity time
+
+[33mcommit 079c1ca80b5c9ea467117e7427f52169b4b04dc4[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 11:33:58 2020 +0100
+
+    debug
+
+[33mcommit 81a869969da4957dca71a7f7ca56a27dbe4366bb[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 11:25:02 2020 +0100
+
+    log mail alert
+
+[33mcommit 76461d1500e6ea827d9df4f5135553c0cf29ff87[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 11:16:33 2020 +0100
+
+    log mail alert
+
+[33mcommit f5bd5de8e2046b34ddef1994bf8f659f2f6de5b1[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 11:13:44 2020 +0100
+
+    log mail alert
+
+[33mcommit 1fb44e4d0e01bd32a7f3d9ff74049a594e640772[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Mar 20 11:06:16 2020 +0100
+
+    log mail alert
+
+[33mcommit a351c2dd1ad9661de4e779677f1168f2f15ad427[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Mar 19 19:38:13 2020 +0100
+
+    planning
+
+[33mcommit 2879734e8fdf320aba30ee3193014525ad585ad1[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Mar 19 16:00:56 2020 +0100
+
+    test della mail e debug
+
+[33mcommit b1baade06ae77a768a41007b266c7fe65858d1b1[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Feb 14 18:39:33 2020 +0100
+
+    debug
+
+[33mcommit bb3329639c33398b941c24febb1ac73f48f9455d[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Feb 14 18:37:05 2020 +0100
+
+    debug
+
+[33mcommit 8c1cfc520c037db69a8e21698d041e08b4b02e48[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Feb 6 17:04:13 2020 +0100
+
+    alert threshold
+
+[33mcommit f951f87f89f25fe3454f6653113e8d41477bbaee[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Feb 6 11:14:45 2020 +0100
+
+    debug
+
+[33mcommit 9ef83559a789969b050736113ebfc0bd815c5bd3[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Feb 6 11:13:52 2020 +0100
+
+    debug
+
+[33mcommit 7ce8d1bfd52c99ee878311c56d66d85acded4a9e[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Feb 5 09:58:17 2020 +0100
+
+    debug
+
+[33mcommit 4cb2789c9ce8b624ecea30f4c75dc28bda45b8f7[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 15:55:12 2020 +0100
+
+    debug
+
+[33mcommit 3893db160c8f5e15c9592fe44f38c3712425222b[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 15:23:32 2020 +0100
+
+    debug
+
+[33mcommit b880f6c8625378bc78c418de01b69c26de42bc26[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 15:22:14 2020 +0100
+
+    debug
+
+[33mcommit 7f92123e5adfee500bd23c19e46ca33eab03aa02[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 15:19:29 2020 +0100
+
+    debug
+
+[33mcommit d3509d4024b4a93ebf71fe5970f81aa9769ba999[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:45:32 2020 +0100
+
+    debug
+
+[33mcommit f127187f9afc2694eff614cac4641ec89df62181[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:45:01 2020 +0100
+
+    debug
+
+[33mcommit a62532bbf7ea0ddc01488bda282d756cee93ff7a[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:44:20 2020 +0100
+
+    debug
+
+[33mcommit 3d3a6e748d874a7983162bb7e2caac22dbc1c231[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:40:00 2020 +0100
+
+    debug
+
+[33mcommit 9c7a85fd9b5c900e28d001a4be7cd622bec64d79[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:38:18 2020 +0100
+
+    debug
+
+[33mcommit 818d498d65fe8ca02cea793b3adc2e66d75b3046[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 11:00:15 2020 +0100
+
+    debug
+
+[33mcommit 93ee1b6cdfcf408a36bb23ff6b21c66711b8a669[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Feb 4 10:51:07 2020 +0100
+
+    debug
+
+[33mcommit 9cee4b83def0f1698ffb19ebfd3c54832b466ac6[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Jan 31 16:42:20 2020 +0100
+
+    modifiche e ottimizzazioni varie
+
+[33mcommit f4347b5002c1cb2ba7f05c37a7b3d86cd4d3ffa3[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jan 28 17:49:38 2020 +0100
+
+    debug
+
+[33mcommit 9cfa612e8a2b4187f40efdaa9b93abdb5454cdda[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jan 28 17:46:09 2020 +0100
+
+    debug
+
+[33mcommit eb92b4a3aeaab9ea0bd28900648d92a7c4974723[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Jan 28 17:24:09 2020 +0100
+
+    debug
+
+[33mcommit cfbec489054f672ac5bf770b75d3b24e51b7c3ef[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 16 14:28:22 2020 +0100
+
+    debug
+
+[33mcommit 3e196effebd3aa7df2405adeb8d7a42eeb78abff[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 16 13:18:42 2020 +0100
+
+    audit
+
+[33mcommit 210e30d2d27fe20cb3f4c17782f00fb3c750d238[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Jan 15 12:09:40 2020 +0100
+
+    debug
+
+[33mcommit 073b71ce32f4eefd03efdfe8cc574537e8b303a2[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Jan 13 15:57:57 2020 +0100
+
+    anagrafica server
+
+[33mcommit c729e333a3fe3ca80533eb3b3d24c2f60f24804b[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 9 18:10:31 2020 +0100
+
+    debug
+
+[33mcommit 4b0acb2d9270d221378d15df16a37328938fd4e5[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 9 18:09:22 2020 +0100
+
+    debug
+
+[33mcommit 3278d8f368ddc2e886cf1c11a012ebadd6ca78d6[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 9 18:02:16 2020 +0100
+
+    debug
+
+[33mcommit f4447ecf271883f0f5cc09b0677e3124ef168c4e[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Jan 9 17:37:29 2020 +0100
+
+    debug
+
+[33mcommit b0e2b9497b3de743a9c0a8bdf9c4de9e58b960f5[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Dec 17 16:33:51 2019 +0100
+
+    traduzioni e  nuova immagine iniziale
+
+[33mcommit aaee697cf6055b17ed7c87136327046613d88942[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Dec 13 17:14:16 2019 +0100
+
+    network default image
+
+[33mcommit 17a693831b32f29abea529086bfb1507ea425d51[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 18:09:18 2019 +0100
+
+    traduzioni francese
+
+[33mcommit 7adab08fd9254901d5b4c25ad4a0e943fbf70444[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 18:05:57 2019 +0100
+
+    traduzioni francese
+
+[33mcommit cd9f4c1fa9434785e7b5cca29c197ab621a849b2[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 18:05:15 2019 +0100
+
+    traduzioni francese
+
+[33mcommit 70a133ddd8cc31d76e0e48bd6ef07455d53d0284[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 18:03:33 2019 +0100
+
+    traduzioni francese
+
+[33mcommit 0745fe9ef0dd671b3dd5093df3163455054d2c6d[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 17:53:07 2019 +0100
+
+    traduzioni francese
+
+[33mcommit db8d35ddebebc44f69f13b902499a637731abaca[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Dec 11 17:44:26 2019 +0100
+
+    traduzioni francese
+
+[33mcommit 42deb2003c28a6a7177e90cf6365607f1f59de64[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Dec 9 12:49:17 2019 +0100
+
+    cors su counter.php
+
+[33mcommit d2d8fe5cd015efcef579157d78c3c324b9b6fd2f[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Dec 9 12:46:54 2019 +0100
+
+    cors su counter.php
+
+[33mcommit 63f0eeaf4056b3a616415ef3b5040b3ce28aee5d[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Nov 28 13:53:07 2019 +0100
+
+    varie
+
+[33mcommit 7d38a85f8ac265ee5efa7599e25deb69460793d9[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Nov 28 11:35:30 2019 +0100
+
+    counter
+
+[33mcommit 6c6cd19c2ca64bafc037b44a3f40c9cff976510e[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 13:28:21 2019 +0100
+
+    meteo
+
+[33mcommit 3bc5c2b26e3f86e2e85bef11b57691be73dcd90a[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 13:26:05 2019 +0100
+
+    meteo
+
+[33mcommit 112d95da4ebca5807c4632b81b7acf1579884a75[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 13:04:53 2019 +0100
+
+    meteo
+
+[33mcommit bc3d84fde6f621c96fa7e7fa3a85d7174ab5ef46[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:59:55 2019 +0100
+
+    meteo
+
+[33mcommit 89f820be5014d8eb047d8f8bbbb3b0d097e30f21[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:51:11 2019 +0100
+
+    meteo
+
+[33mcommit 10c4a5efdcb2ffa7efda717a8e23d9c84c144073[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:50:00 2019 +0100
+
+    meteo
+
+[33mcommit 996a123d5aeece12985a5607e2ecb792a0b8b022[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:47:56 2019 +0100
+
+    meteo
+
+[33mcommit eb47cc4b0f5f5d1b8157339208b3962e68d23ab4[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:46:17 2019 +0100
+
+    meteo
+
+[33mcommit 60525f4b370e912a4d7a95fd92f0d1c7a1b566aa[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 27 12:43:01 2019 +0100
+
+    meteo
+
+[33mcommit 85ca0ca306c25055aeff35917b134c028bd306ce[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 26 12:59:29 2019 +0100
+
+    preview
+
+[33mcommit 087af62c7b8c25976902b3015d2aa11e16b0e7e9[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Nov 25 16:38:36 2019 +0100
+
+    varie
+
+[33mcommit 14c7c794f77487db213eca2c7ec923ce2f7af449[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Nov 21 18:33:25 2019 +0100
+
+    preview serverino
+
+[33mcommit 8ff815e0cc7d7b7bf37535077dd6fd065f4161a6[m
+Author: aurelio <tonachini@mantanera.it>
+Date:   Tue Nov 19 17:52:55 2019 +0100
+
+    serverino code
+
+[33mcommit 093551a069132ab51d7ad02c6f40ece08af3efb2[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 16:25:30 2019 +0100
+
+    avatar
+
+[33mcommit 7c2eb3f33364bdfa579c8831f4af9570d58b12b7[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 14:23:21 2019 +0100
+
+    debug
+
+[33mcommit 7936d522baf51be5f560fc7aedfda8a796acae55[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 10:32:38 2019 +0100
+
+    debug
+
+[33mcommit 593d6831971d065ceaf22d1f16f3af89ee314ef5[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 10:31:50 2019 +0100
+
+    debug
+
+[33mcommit 1894b7efd6cc182d5f3d28d9d2a1ca3baeca5a2a[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 10:30:35 2019 +0100
+
+    debug
+
+[33mcommit a82f1333c47fb01386fc0aa848362670b64aed89[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 19 10:26:15 2019 +0100
+
+    debug
+
+[33mcommit 99fee710f67bee29778a52869b8a9e79be3edfa0[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Nov 18 16:14:24 2019 +0100
+
+    varie
+
+[33mcommit 3f7c4271195fb863a37aef641973a4eeac2ae059[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Nov 18 15:02:33 2019 +0100
+
+    varie
+
+[33mcommit e0aa684c5ccbf299155d59bfb379dfa06d7ec842[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Nov 7 10:13:49 2019 +0100
+
+    varie
+
+[33mcommit 793c13393cc086b21afaf067a2a8064f111b3a14[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 14:27:06 2019 +0100
+
+    i
+
+[33mcommit b9fd051b2aabfa63e99aa26cd498a32c711c8d09[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 12:23:44 2019 +0100
+
+    i
+
+[33mcommit b6ced35028ab9e87ce10def3e9cf36b31f53608a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 12:23:12 2019 +0100
+
+    i
+
+[33mcommit 6f84007a7dd578932f1d711d47cd4ba5e1f42b18[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 12:17:31 2019 +0100
+
+    i
+
+[33mcommit 1860444fbde0d0b0eb3e7b2ce0e42cc849548c4a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 11:57:01 2019 +0100
+
+    i
+
+[33mcommit 8347c78e49894b93f06de846431aaf330b22ae3d[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 11:50:37 2019 +0100
+
+    i
+
+[33mcommit 6ec7d9d963065531f91da33d4e9c57b3975f8a47[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 11:49:17 2019 +0100
+
+    i
+
+[33mcommit 61594a1db3952595d882f4ab618325943b6adbb5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 11:10:05 2019 +0100
+
+    i
+
+[33mcommit 96fbce6f65e7e39ec3ad073c027f4a090205ed38[m
+Merge: 7d2edb4 49f2b34
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 6 11:07:14 2019 +0100
+
+    others
+
+[33mcommit 7d2edb4956eca575d49b5692c4424317f816dda5[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Nov 6 11:05:21 2019 +0100
+
+    others
+
+[33mcommit 49f2b34d73937cfe89c3cc3c4091fc903b8bed82[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:44:54 2019 +0100
+
+    i
+
+[33mcommit 3493df935a4347d012fee6ce673015b3c4b826f4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:43:53 2019 +0100
+
+    i
+
+[33mcommit 617471744aaebc5b7e9cab0c37adab0211c020e6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:42:52 2019 +0100
+
+    i
+
+[33mcommit 00a80f9a28b9ebb87f2da3afcad54201332edc67[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:42:28 2019 +0100
+
+    i
+
+[33mcommit fc55046c73aba8b16af035cc4fd457424bccb448[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:41:09 2019 +0100
+
+    i
+
+[33mcommit 613248b86ed63117dceb8b3e088f942893d98a99[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:23:24 2019 +0100
+
+    i
+
+[33mcommit ee3361a7db3f5771d6e90f5d2e5a337120e83d9d[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:22:54 2019 +0100
+
+    i
+
+[33mcommit 622b230927df63375afb5383b6401d824a81c689[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:20:58 2019 +0100
+
+    i
+
+[33mcommit 5274b46359848e7bfa971d4e5f12add4bfff5fee[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:17:57 2019 +0100
+
+    i
+
+[33mcommit 271696ea39c1c1161968b2fe2e89a497ad9f35e4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:17:39 2019 +0100
+
+    i
+
+[33mcommit c2c5e58161c417a095ab7f5f938d77ecdc702a82[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:17:25 2019 +0100
+
+    i
+
+[33mcommit 761afae82dbbcd83990907318405385b05f7cff5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:16:40 2019 +0100
+
+    i
+
+[33mcommit 68b6a0686de760dd531ef140c32c75a11ed4a0bb[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:11:07 2019 +0100
+
+    i
+
+[33mcommit fcde6f65d1ceb6cd1ef56551ce0a66ce652a24e2[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:09:12 2019 +0100
+
+    i
+
+[33mcommit 52ab304d179354cced9faee890771e3fd5ce22dd[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 10:04:52 2019 +0100
+
+    i
+
+[33mcommit 75d09a224a72e041cb3305e659ad50db356d36e6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 09:56:06 2019 +0100
+
+    i
+
+[33mcommit 2699219ab8e1f6c58f6bc6bccf5e216a6ed4fe24[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Nov 6 09:55:19 2019 +0100
+
+    i
+
+[33mcommit e546a5979aef1c275d65abdedc9ec5dc560f719b[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 18:44:41 2019 +0100
+
+    debug
+
+[33mcommit 2aac48d32ff3b07149528d86ef85bb9bb7df46d9[m
+Merge: dd9af12 15e5a3c
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 18:21:09 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit dd9af12a5d0ec80d97d6b4936914194dfccea705[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 18:20:59 2019 +0100
+
+    debug
+
+[33mcommit 15e5a3cb3a4b81d6c809a8c916959365fb254dbd[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 17:03:26 2019 +0100
+
+    i
+
+[33mcommit 8f3053de382c4954e729acf4384f1454ba27fbc0[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 17:01:52 2019 +0100
+
+    i
+
+[33mcommit fd1411ffabfd930a062262700b77a3f651da8c03[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:59:57 2019 +0100
+
+    i
+
+[33mcommit da9dc7a0e5cb79b0ba21ea995c6e7ab6223ca969[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:59:22 2019 +0100
+
+    i
+
+[33mcommit d7c8be89e718c143c3a7e25b5877bf2bf3b23538[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:58:57 2019 +0100
+
+    i
+
+[33mcommit 10319ce0009c0d482ba0d4ed01b1e300f425b345[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:57:28 2019 +0100
+
+    i
+
+[33mcommit 22b5510172eb22922c585df0606842ad292c9399[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:57:08 2019 +0100
+
+    i
+
+[33mcommit 4864a06deced13aaca66ac5b1fcf52fa138ff5ce[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:54:44 2019 +0100
+
+    i
+
+[33mcommit 8fce915f1c9f765c2f5b7df7d2bf74059ba8b54a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:54:17 2019 +0100
+
+    i
+
+[33mcommit 7b60060fdd089c2464aa1c9777cfe31abe5e6de5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:53:45 2019 +0100
+
+    i
+
+[33mcommit 106283af4e4060b3c5b16f3a126cba995d7ab6e4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:53:17 2019 +0100
+
+    i
+
+[33mcommit 4cae85e0636772ceab24f4d9224718a26f977e2e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:52:58 2019 +0100
+
+    i
+
+[33mcommit 5102c4b6efc4e46b3526a750eb9ce029533036e3[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:52:29 2019 +0100
+
+    i
+
+[33mcommit 4b37399c8555eb566241cd2b09b7c5669176b82d[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:43:35 2019 +0100
+
+    i
+
+[33mcommit ac41b95fc2daac9e246a3bca0a8fd33ce59f70bd[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:41:51 2019 +0100
+
+    i
+
+[33mcommit bd57293974996f84ba2b8e6d724143fd8777ff25[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:40:03 2019 +0100
+
+    i
+
+[33mcommit c9a1188dbcabf7460bd51746cb35f07d55ebea70[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:38:15 2019 +0100
+
+    i
+
+[33mcommit f5290203e0706db4099ce7dd0108dccb18b929df[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:37:36 2019 +0100
+
+    i
+
+[33mcommit 23e2b74e7a1cb36aec4e85fcf6b112366b97a191[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:36:57 2019 +0100
+
+    i
+
+[33mcommit f612d3eee7eac3edce314eb379661d2f76049c40[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:35:13 2019 +0100
+
+    I
+
+[33mcommit 7541794a07757dfa4344c7c0a6459f18f1458e98[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:34:23 2019 +0100
+
+    i
+
+[33mcommit 9592300864ec7837691887d962101ae9fc34a477[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:31:37 2019 +0100
+
+    i
+
+[33mcommit 77159dbd5074893dce6c044d0844227ddf5a469c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Tue Nov 5 16:30:39 2019 +0100
+
+    i
+
+[33mcommit 67b2e6ea8441ebc1fcc1ec9d57cf16c0119cfd37[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 16:12:39 2019 +0100
+
+    adverts
+
+[33mcommit 88f6fae1706f9beea376bced155bc22b3026fee5[m
+Merge: 85404d0 3d6738e
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 15:35:00 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 85404d0525e0ae643f1689fd09520d3cfe3fba81[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Nov 5 15:34:39 2019 +0100
+
+    adverts
+
+[33mcommit 3d6738e9b82a4886dd2c282703cb7432e947d5bb[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 13:03:09 2019 +0100
+
+    i
+
+[33mcommit a549f22041b0363d53f6afd6cdd7bf98d2d9f164[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 12:58:42 2019 +0100
+
+    i
+
+[33mcommit d9be2dd74eeed05676b5ae93b383289937c3ec46[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 12:57:23 2019 +0100
+
+    img meteo
+
+[33mcommit 2ce5ca4954c84d6f0c1cd8710dac7a145ef6941a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:56:33 2019 +0100
+
+    i
+
+[33mcommit 3b68832debdb6d64626f354ef660afc3c7579b35[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:56:01 2019 +0100
+
+    i
+
+[33mcommit 228088510bb79555702f8d091947585e80e8ccd5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:52:38 2019 +0100
+
+    i
+
+[33mcommit a4335dfd97be70a0a4586f7ebeb0dd39729758c2[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:51:54 2019 +0100
+
+    i
+
+[33mcommit 19b3b7c7de60239ce1e9c86c86292815e8cfc164[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:51:43 2019 +0100
+
+    i
+
+[33mcommit b67e9a420bd7a6c8d3c00f1252ed5e02330aaaa4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:48:32 2019 +0100
+
+    i
+
+[33mcommit b5f5ccfada5ad6fc2445bed0c753a6774912e000[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:48:20 2019 +0100
+
+    i
+
+[33mcommit 4876e868227f69702a5d9e6e849c5163d4444acf[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:44:57 2019 +0100
+
+    i
+
+[33mcommit 08e085a746d0be34d263f3274c70ac85963fc604[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:43:33 2019 +0100
+
+    i
+
+[33mcommit b5edcbf7c699c79f5906d3321b6a41264984656e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:40:23 2019 +0100
+
+    i
+
+[33mcommit c6d8ee0ccb37f9a5ecd69434d6f736803de0d71e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:36:25 2019 +0100
+
+    i
+
+[33mcommit 4c40d970d0bb381313efffdc108eb164393bca21[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:14:20 2019 +0100
+
+    i
+
+[33mcommit 33897ba383e52040b6e946c1148fcc7419b6369e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:13:54 2019 +0100
+
+    i
+
+[33mcommit f91b03bdaa455d2354101dc93200fc6e0b9023b0[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:07:38 2019 +0100
+
+    i
+
+[33mcommit 77d858f790e332f0e1e4ab3513cfdb4ca788a877[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:07:16 2019 +0100
+
+    i
+
+[33mcommit fdda028015a78f572bf37286445919660da008e8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:04:34 2019 +0100
+
+    i
+
+[33mcommit e7c5023b5f99dacc260d8755d9827fa35eb6b314[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:04:27 2019 +0100
+
+    i
+
+[33mcommit 9b60888ca7cd779d03521e4302e80e6fff525f79[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 11:02:51 2019 +0100
+
+    I
+
+[33mcommit 372ddc54722b76bbecb7a353188a3a27ef31b56c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:56:00 2019 +0100
+
+    i
+
+[33mcommit 325277d49a7a3e6890da2556c1d7a47e61ae7ed3[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:51:38 2019 +0100
+
+    I
+
+[33mcommit 6ce9b0742b60825dc2defb0129405b685281d398[m
+Merge: bbbbd3c ae69a45
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:50:20 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit bbbbd3c907b79ee560638ee51f9aa172497c9b1b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:49:50 2019 +0100
+
+    i
+
+[33mcommit ae69a45d2b6b0cb7fca54a8d65aefe8e482730aa[m
+Merge: 51d6d7a c9890ff
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:36:43 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 51d6d7a52bb0387cbe8f7103bec175111d431e5f[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:36:29 2019 +0100
+
+    gestione date
+
+[33mcommit c9890ff2a3d201b585629cd11f333fb0a7959734[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:36:23 2019 +0100
+
+    i
+
+[33mcommit 993597bb91c5692f24386842fa04145f5d09035a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:35:38 2019 +0100
+
+    i
+
+[33mcommit 777b61ee24a71f46aac4763f3cd744fa50c99f00[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:26:55 2019 +0100
+
+    gestione date
+
+[33mcommit d6b30fe12856cb0128350de5fc10810b142d0cab[m
+Merge: ce76869 7369c58
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:25:01 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit ce76869de1d505f6df755049a4467c6e8a88803b[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:24:46 2019 +0100
+
+    gestione date
+
+[33mcommit 7369c58f40d21ddc6271801683f7870f1f0b5d98[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:20:04 2019 +0100
+
+    i
+
+[33mcommit 122f54d89785e10e43ea4c0ee9d8a86da59a0c06[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 31 10:19:08 2019 +0100
+
+    gestione date
+
+[33mcommit 68d6979cf5940fa57b241756616b67f1a59e11c6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:13:50 2019 +0100
+
+    i
+
+[33mcommit 279d0a281eaca563f1a7762fefe48b36823a6677[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:07:09 2019 +0100
+
+    i
+
+[33mcommit 8f320aec61815d3e101cef7a62b7b7c01a8696d9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:06:21 2019 +0100
+
+    i
+
+[33mcommit 35c5fc9b0f2cd7ccef69f6e7b5f7ad82b7cd6ef3[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 10:05:47 2019 +0100
+
+    i
+
+[33mcommit c452ab55833b9cfae75a3d8f0e8cde4be72f9c3c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 09:48:00 2019 +0100
+
+    i
+
+[33mcommit b32f3793a3b134f767cde1ee289ca8720ee807c7[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 09:47:44 2019 +0100
+
+    i
+
+[33mcommit 5ee1c35602286b1248af7bbfb602f985c19556a2[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 09:46:09 2019 +0100
+
+    i
+
+[33mcommit cd9ddd3019cacd8aa9d649c8860f92528c07ca0f[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 09:44:27 2019 +0100
+
+    i
+
+[33mcommit 17219234c3ffcdf8576338c06bb83a39ba247b2b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 31 09:42:31 2019 +0100
+
+    i
+
+[33mcommit 8b2f5bcbfa5550b8f194704f6a7ba6be01cefbe8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 30 09:47:17 2019 +0100
+
+    i
+
+[33mcommit 963b7c16bad9a2a0e8f46dfccf613ea1bb3c764d[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 28 15:31:19 2019 +0100
+
+    debyg
+
+[33mcommit 70f28c24fc1f3a981f58415fdab062565d5785c2[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 28 15:16:43 2019 +0100
+
+    debyg
+
+[33mcommit 3725713142db25c7bb6bf0c8eefb4cb358298767[m
+Merge: 05cca4b c8dad8f
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 28 12:53:29 2019 +0100
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 05cca4b985126edd3e65dfe8ba667bd4fc5119cf[m
+Author: Alex <lioy@opentag.it>
+Date:   Mon Oct 28 12:53:04 2019 +0100
+
+    revisione1
+
+[33mcommit c8dad8f6d24f25fd112979d723a8c29f60a34074[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:57:09 2019 +0200
+
+    i
+
+[33mcommit 2eff6676c3fc646819dfd5235a889745ce89e352[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:56:39 2019 +0200
+
+    i
+
+[33mcommit 963ec866e6be139a484f17569b5b366d855299b6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:55:48 2019 +0200
+
+    i
+
+[33mcommit 4b1bd0b601b272f0b137d9ec1d0fadc59375bc90[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:53:59 2019 +0200
+
+    i
+
+[33mcommit a393147806642389aaf69bc98b82e948f1f57513[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:53:35 2019 +0200
+
+    i
+
+[33mcommit 1964f6a9a88d3e095919d14467d6151f97c49cb4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:47:05 2019 +0200
+
+    i
+
+[33mcommit 08634978f37a3d3e95142c45230893105d94a5c1[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:45:42 2019 +0200
+
+    i
+
+[33mcommit 04f7f47e9012fe443baecf9fb07bc47ac03ef7d1[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:44:45 2019 +0200
+
+    i
+
+[33mcommit 09ca0ee62403c14ef27aea6d2d76ead905c9649b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:44:04 2019 +0200
+
+    i
+
+[33mcommit a6a9c5d9b61272dbe0cc98137d906d47bf001f55[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:40:40 2019 +0200
+
+    i
+
+[33mcommit 276d876807b6e1ee5ab2790c197d7084d1dd2bb4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:40:21 2019 +0200
+
+    i
+
+[33mcommit c5b3489c0ed3772e32b1a51ca659824f790058c8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:28:23 2019 +0200
+
+    i
+
+[33mcommit ad93211b6e95cfdf2e75afc7efd99784de4b95b8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 17:27:01 2019 +0200
+
+    i
+
+[33mcommit b49b2b3018e784ce1ae23cd015a503695fbcf746[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 14:44:02 2019 +0200
+
+    i
+
+[33mcommit 2590cf85efbe6dc6e32d614d498ea73bfc2a0ce9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 14:35:29 2019 +0200
+
+    i
+
+[33mcommit a68b685be5af5748695c1e341a0c5403dd488418[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 14:35:18 2019 +0200
+
+    i
+
+[33mcommit 823f40fb993b6c3d6e3739d32e0f32bf5cd27398[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 14:30:11 2019 +0200
+
+    i
+
+[33mcommit ca28765b1d68ed78b2305a8b5523fdbce0867692[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 14:28:42 2019 +0200
+
+    i
+
+[33mcommit 25aff6b412789b3d592c7bed772790c31cd00e95[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 12:12:04 2019 +0200
+
+    i
+
+[33mcommit 47ce67bd1a82eb4b18fbb073af53ad2e5f5f9488[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 12:02:00 2019 +0200
+
+    i
+
+[33mcommit ba68b1cef5f6a526754aa34ac5e82a9350bb1d9e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 25 12:00:26 2019 +0200
+
+    i
+
+[33mcommit 0c4d0a0cbe41577f8f91840185a9a45ff6834740[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 24 17:58:40 2019 +0200
+
+    meteo
+
+[33mcommit b3473a2ca0fcaa150f9395d769c4ea8967e901b2[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 24 17:43:41 2019 +0200
+
+    meteo
+
+[33mcommit 0326eec8c8ae7a7088d4f525b2d0be031c967dd8[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 24 16:36:43 2019 +0200
+
+    meteo
+
+[33mcommit 24db899d871f299fe331acc68d314542620eaa9f[m
+Merge: 5898c57 b55e05c
+Author: Alex <lioy@opentag.it>
+Date:   Tue Oct 22 16:56:20 2019 +0200
+
+    conflicts
+
+[33mcommit 5898c57a9d25ebc93c57bd22b6032e106439df90[m
+Author: Alex <lioy@opentag.it>
+Date:   Tue Oct 22 16:37:26 2019 +0200
+
+    sviluppi
+
+[33mcommit b55e05cc248fb91dd4750ca5b3c3fde098601fa6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 17:28:25 2019 +0200
+
+    i
+
+[33mcommit e68f0087d5e6d2fdaa4602a6f545f1981d5b9bec[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 17:27:22 2019 +0200
+
+    i
+
+[33mcommit a015e0788a7e61d31e33cdf26160ef5398a929ae[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 17:19:40 2019 +0200
+
+    i
+
+[33mcommit cb8a742c00cb51aa1d24ff65e392fd08f1dee4fc[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 17:19:33 2019 +0200
+
+    i
+
+[33mcommit 62861e6c3117e9e67aa12b8fe0e7f99e1dd2a628[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 17:16:18 2019 +0200
+
+    i
+
+[33mcommit 8ebb2c3395acaa59509a0205fe09dbc194165729[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 16:19:56 2019 +0200
+
+    i
+
+[33mcommit 75b76b580239eb982ff8d2137d54fd1d8bd45e30[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 16:19:31 2019 +0200
+
+    i
+
+[33mcommit c93ac01bcd81a497b598f429850e3ac5e17f8a07[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 15:10:02 2019 +0200
+
+    i
+
+[33mcommit fbb24556d2aefd70ece42f3aa4e3840f0a2d5b88[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:48:43 2019 +0200
+
+    i
+
+[33mcommit 5c3e5e988d5b9a4e06822e22973e90337a80fa72[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:47:14 2019 +0200
+
+    i
+
+[33mcommit a91f5509fe7c697e80aa7f5bd77ff7b69d28d099[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:41:41 2019 +0200
+
+    i
+
+[33mcommit c2cc579386416d2dbfa7db0d8d2036ebfd9270f0[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:39:17 2019 +0200
+
+    i
+
+[33mcommit 54551f3a0905f920f77c7f34ab6559a23f394188[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:37:33 2019 +0200
+
+    i
+
+[33mcommit bf2ac7b14c3f21b1e7ce25ac8f265efd56907844[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 12:18:21 2019 +0200
+
+    i
+
+[33mcommit 48f77f20144a78b0efccff0966538897889ad271[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Wed Oct 16 10:32:24 2019 +0200
+
+    i
+
+[33mcommit fc99db7e28bea34d960a5401ce3361a49b2da603[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 18:02:08 2019 +0200
+
+    i
+
+[33mcommit 8716737d88b6726a568ce2ab40da907be7abfff5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:57:05 2019 +0200
+
+    i
+
+[33mcommit 5062711f9f10ddfacc4fd7388f2ae6556d2eca13[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:56:45 2019 +0200
+
+    i
+
+[33mcommit 14f92fb9c12e5161028bdc13d1425ebdb214f62d[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:55:37 2019 +0200
+
+    i
+
+[33mcommit 02d5f729e630d5adae7e34c08124ee6693dba92f[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:54:08 2019 +0200
+
+    i
+
+[33mcommit 23b9125be539b6529837c9d681ad68ac087366f4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:50:41 2019 +0200
+
+    i
+
+[33mcommit 124262605d6f8e29644a4d7d4b0e1a17e59b7c17[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:50:03 2019 +0200
+
+    i
+
+[33mcommit 9d58b50e16d5464278fa047913e9e659425da090[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:48:36 2019 +0200
+
+    i
+
+[33mcommit 9bb83ca2265dff45135e48b2a21a10df18703c58[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:47:28 2019 +0200
+
+    i
+
+[33mcommit 4f553c91a0f437163335e22b84b1cfeeba205e16[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:46:40 2019 +0200
+
+    i
+
+[33mcommit 8e96ef07aae1ea478ace031f4a19415d968163d1[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:29:06 2019 +0200
+
+    i
+
+[33mcommit 7b86e5b4c79efa4ed594a40f59bc78febf1e173b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:28:16 2019 +0200
+
+    i
+
+[33mcommit a109748d1507690372927880b8d8bfc6289ee516[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:27:07 2019 +0200
+
+    i
+
+[33mcommit c0e02eb9f78cd0c5d342c3c1c241c3cb48feb25a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:16:40 2019 +0200
+
+    i
+
+[33mcommit 080047f3c616e751e9a5c84fe7d3da0644b571ca[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:16:28 2019 +0200
+
+    i
+
+[33mcommit a7d24d0def27fabbb21cf6212cd7f255dd0a474c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:14:46 2019 +0200
+
+    i
+
+[33mcommit ae75c59909ac009b7da1196d002c050174049a42[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:13:20 2019 +0200
+
+    i
+
+[33mcommit 0ba0588d1534ff49530d3f023c04e14ed2fe1676[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:08:25 2019 +0200
+
+    i
+
+[33mcommit 2f5f1fc417c1548a2f9192e7bca53d3ea5564743[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:05:59 2019 +0200
+
+    i
+
+[33mcommit 5a00a9d1dd04eb1a6d0be18afeccbdd745b818b4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 17:05:47 2019 +0200
+
+    i
+
+[33mcommit 719afa6267f5b59ced80105c0ebf7e3dedef0183[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:38:55 2019 +0200
+
+    i
+
+[33mcommit f52f7490f02c2545be39ba3849bc9468aac82839[m
+Merge: 07c368d 0411659
+Author: Alex <lioy@opentag.it>
+Date:   Fri Oct 11 16:37:52 2019 +0200
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 07c368d32e9d90b79242a60aea26cf659c6cf46e[m
+Merge: dafa091 64c37ff
+Author: Alex <lioy@opentag.it>
+Date:   Fri Oct 11 16:37:40 2019 +0200
+
+    nuovi2
+
+[33mcommit 0411659dde1fa1bb02fc97f4e8737e1b8881ddc5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:35:26 2019 +0200
+
+    i
+
+[33mcommit dafa0916eeeb8729aa8195b9a0587e7c8f84ee38[m
+Author: Alex <lioy@opentag.it>
+Date:   Fri Oct 11 16:34:13 2019 +0200
+
+    nuovi1
+
+[33mcommit 64c37ffd2c647afd3edc9f64394af98be1cba59b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:12:19 2019 +0200
+
+    i
+
+[33mcommit 0af9b543f2887c0b29ea852e7c013ed2c435bf70[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:12:09 2019 +0200
+
+    i
+
+[33mcommit 7f445044e5f1822cc4be0184252aff27397b8b04[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:08:45 2019 +0200
+
+    i
+
+[33mcommit 26a364302520500189eae59c335b78a4e4d8fcde[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:04:29 2019 +0200
+
+    i
+
+[33mcommit cb6fb4c262c3f6c4782c30ba8c67c087ab4ef5a9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:03:13 2019 +0200
+
+    i
+
+[33mcommit 4d12903507083a7624d3802faec56e0e6040c38e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 16:02:10 2019 +0200
+
+    i
+
+[33mcommit 778bdfab1a1ebaf15a8f09868bb820bcde34d8f9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:52:15 2019 +0200
+
+    i
+
+[33mcommit 1673855e40ba369123651f6ecd965d0a2f8d9f2b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:51:32 2019 +0200
+
+    i
+
+[33mcommit 86763e4ed8ac195c0fd0d8082754fdbb07ff0eeb[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:27:02 2019 +0200
+
+    i
+
+[33mcommit bd457f586f254f3383c5095f95040f8b53a166c4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:25:43 2019 +0200
+
+    i
+
+[33mcommit 5f28fb40094c8d59cd24e9cfc75d135213e178c6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:23:45 2019 +0200
+
+    i
+
+[33mcommit 8f7e7c44caf64dd1f75feea9659e470d5b4a2b91[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:23:05 2019 +0200
+
+    i
+
+[33mcommit f51d2750fab94449477d0089257e2f55eb8ac01f[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:22:24 2019 +0200
+
+    i
+
+[33mcommit f8ac148358926529fae3162360098012d589832a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:17:25 2019 +0200
+
+    i
+
+[33mcommit 2897700516e0e0c2098b7d149e09186460e0b1b9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:16:24 2019 +0200
+
+    i
+
+[33mcommit 304d812525f490f1c0ca586c1806947a9498463b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:06:32 2019 +0200
+
+    i
+
+[33mcommit cca1dba318ee26080f991c38febc785ae29ab838[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 15:02:42 2019 +0200
+
+    i
+
+[33mcommit ad19dbc751959bf953a33f4c6fc2e462c25777e1[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:59:29 2019 +0200
+
+    i
+
+[33mcommit 5a246010a6c43c506b7236bb928dd555d42c4367[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:58:34 2019 +0200
+
+    i
+
+[33mcommit 34a1cc0135c8d5667f9581e3f85bc3cb4bba707a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:57:42 2019 +0200
+
+    i
+
+[33mcommit 8aaba1db64fb9a4a3447d88b5c89720a2399afa8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:56:19 2019 +0200
+
+    i
+
+[33mcommit 4ac5eeb026057e633d51d89a1e97521bc325b3f6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:53:38 2019 +0200
+
+    i
+
+[33mcommit a6e80df37f56397be6a6b66bc470db6de6f17c69[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:53:25 2019 +0200
+
+    i
+
+[33mcommit 76b8bc795d3dfc32410278f465401ca96fda54df[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:51:53 2019 +0200
+
+    i
+
+[33mcommit e59867b2b7220a1ef0e7197b8b44f6c72cf669f7[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:50:46 2019 +0200
+
+    i
+
+[33mcommit f341f92a74ef3049707b14c9db7fb206b3d8ff30[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:49:20 2019 +0200
+
+    i
+
+[33mcommit b0a681cf18459dc4a4ff6295f6c339d85f96cc31[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:49:03 2019 +0200
+
+    i
+
+[33mcommit fa2d67c5a1be899898fb1359b5242922bea5ee6c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:42:18 2019 +0200
+
+    i
+
+[33mcommit 8e6bdeafc41aa1387854337d740319905df51415[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:33:40 2019 +0200
+
+    i
+
+[33mcommit 7a91d48dafc2f8ae22284fc55a8d0c9e23ac99b8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:32:47 2019 +0200
+
+    i
+
+[33mcommit f51260a5df97741df5559ca8fd9941fa6770052b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 14:32:11 2019 +0200
+
+    i
+
+[33mcommit e0c0699908119480c545135d51ec211fafb46cc1[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:26:55 2019 +0200
+
+    i
+
+[33mcommit 0976eab3d52df011823ac5c98c0ae615dad47b09[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:14:13 2019 +0200
+
+    i
+
+[33mcommit c393dd9b8378e8b1ca16a14e66c755827160bd45[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:13:29 2019 +0200
+
+    i
+
+[33mcommit 463b1bc4be0872765aaaebf12b6eb1fa1c6f7870[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:12:44 2019 +0200
+
+    i
+
+[33mcommit 60d5a937f0fb47ad1b5caee1d8c7965405af2771[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:10:51 2019 +0200
+
+    i
+
+[33mcommit 0869f7b969a77455e5824a05ad11bc08cf5e06d6[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:05:10 2019 +0200
+
+    i
+
+[33mcommit bdd6d792a302da42cb5df78a5cdfc869720946b8[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:03:36 2019 +0200
+
+    i
+
+[33mcommit 070e69ac6b1d9c2a67d7b992d6094b5a7796db50[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:03:00 2019 +0200
+
+    i
+
+[33mcommit 8915c5c71f56a851ad8c1e64a1f8804093883b51[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:02:00 2019 +0200
+
+    i
+
+[33mcommit 73c726b9ab8d4e5d815b0de2ef5a1efef32ee044[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 11:00:11 2019 +0200
+
+    i
+
+[33mcommit 6946c16b17c8fc05bfd7b292f5aed22b42e0d795[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 10:58:53 2019 +0200
+
+    i
+
+[33mcommit 012b13324a190df60bcc715e13af4c67e76a601c[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 10:58:15 2019 +0200
+
+    i
+
+[33mcommit 862294e46a2941b38968d1952f8af9d9c090245b[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 10:34:36 2019 +0200
+
+    i
+
+[33mcommit 3f149e058b650cdbf0c716eee7cf7c41e91e9446[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 10:32:44 2019 +0200
+
+    i
+
+[33mcommit 2324797c7727ff2b65d0ef1fca0ecc380e834aeb[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Fri Oct 11 10:21:52 2019 +0200
+
+    i
+
+[33mcommit cc5cedc1a564e9fed732343db16a11bb022ae4b7[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 18:12:39 2019 +0200
+
+    i
+
+[33mcommit 0b0587f585cbfc6b1a10872a48248e9beeb89a76[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 18:11:31 2019 +0200
+
+    i
+
+[33mcommit 56ddf472ad5c65706ee9192a3f2a7a2c5725b80a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 18:02:59 2019 +0200
+
+    i
+
+[33mcommit b8df9b8d2d524ed6cf83f6674d9b62aca8d63637[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:59:21 2019 +0200
+
+    i
+
+[33mcommit 4b457b90764e18ef4ab07020c1217907864f29d5[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:58:12 2019 +0200
+
+    i
+
+[33mcommit 5a778fec5538a99b88a5c61952450b9bc41268e7[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:51:02 2019 +0200
+
+    i
+
+[33mcommit e4d7440c8bdd251bde08e1fe19be409955e834fa[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:25:06 2019 +0200
+
+    i
+
+[33mcommit 6ef29fadac1ececc4b7659f835bfa179683f103a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:21:25 2019 +0200
+
+    i
+
+[33mcommit 5d80c47c5589c9c203826e0cde686f8210c45944[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:13:53 2019 +0200
+
+    i
+
+[33mcommit cdd3899ba7a937bc7df7ddc8cfb9b82138d9d302[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 17:06:57 2019 +0200
+
+    i
+
+[33mcommit 658e66f3337c245e3d6d46fd5a1c9a233ffe848a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:59:23 2019 +0200
+
+    i
+
+[33mcommit cac2fdcafe34fd338bea27f021e390c0d311e010[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:58:43 2019 +0200
+
+    i
+
+[33mcommit 26c44f3d7feaca26a0a0e4158a333b641e89fd6a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:45:29 2019 +0200
+
+    i
+
+[33mcommit aeadf7075a7fb39628171ca9c888eb9df525325f[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:35:34 2019 +0200
+
+    i
+
+[33mcommit b592871abdd404a32cc717a823ec720fee659d1e[m
+Merge: 5fadcd4 74b6275
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:26:55 2019 +0200
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 5fadcd47b37b37786f801e4e5ecbc06a3049a325[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:26:39 2019 +0200
+
+    i
+
+[33mcommit 74b627540a978720b8440dd911bcdf71d934e4c0[m
+Merge: 5e324fa ed9d9d2
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 16:25:04 2019 +0200
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit 5e324fa7e9a9bd5395a2d54bae73a7c3469509bd[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 16:24:42 2019 +0200
+
+    removed .env
+
+[33mcommit ed9d9d27f951b51ab1f710abd7ddd668a5ebf58a[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:22:34 2019 +0200
+
+    i
+
+[33mcommit fccbaba9228cda15f8a9575de83bddbd0d51c7de[m
+Merge: f042935 1bbf5f2
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 16:15:13 2019 +0200
+
+    Merge branch 'master' of majida:/opt/git/mvmprestige
+
+[33mcommit f042935e22d7d0d8bb3de9b3613811d11a2901c1[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 16:14:54 2019 +0200
+
+    controllo files
+
+[33mcommit 1bbf5f2d970ac730978fe1b81fe2cadc83327215[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:12:40 2019 +0200
+
+    i
+
+[33mcommit 1a73e17b4c22c200f7c0241ab6d2f661539eafd9[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:09:31 2019 +0200
+
+    i
+
+[33mcommit b81e7c4e678528da307f8769313fd1ece1dd8716[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:09:07 2019 +0200
+
+    i
+
+[33mcommit 0c578d3691d996949a2341597f981b16eeb9dc2e[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 16:07:09 2019 +0200
+
+    i
+
+[33mcommit b8e4ac64f28618797ecd48e4c0ffb62fcf44a130[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 15:54:46 2019 +0200
+
+    i
+
+[33mcommit 636156abfc9bcbbf756d94316ca673818d221f40[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 14:51:32 2019 +0200
+
+    i
+
+[33mcommit bd0bb896b24b5ab9c83fcf227e251d107fc55772[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 14:50:36 2019 +0200
+
+    i
+
+[33mcommit 8eb367e96c92155d61e6c80a3dca8c0f088ff948[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 14:35:44 2019 +0200
+
+    i
+
+[33mcommit cb66c36b2e7b07fee3895d9cbed8c3a62c0d2725[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 14:26:55 2019 +0200
+
+    i
+
+[33mcommit c345e0d972abf1886c4b869486c307d1d18bfac4[m
+Author: ilaria <ilariacarlucci87@gmail.com>
+Date:   Thu Oct 10 12:23:54 2019 +0200
+
+    i
+
+[33mcommit daaa88208779fab37c2ea4a91d32519b1b3e33b0[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 09:58:12 2019 +0200
+
+    debug
+
+[33mcommit deedd4bdc4c636a0fc244d7dfae0386160bf5882[m
+Author: Alex <lioy@opentag.it>
+Date:   Thu Oct 10 09:56:22 2019 +0200
+
+    debug
+
+[33mcommit 80736720c8d0e69ba5ee9a9aabf0eaecf05d2727[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 23:32:51 2019 +0200
+
+    debug
+
+[33mcommit d062ead6f820e29afcda3b04fa52c8b487e70964[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 23:28:28 2019 +0200
+
+    debug
+
+[33mcommit c49b063bdfe087908e184f0fcc8397030c3a0e50[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 23:12:01 2019 +0200
+
+    debug
+
+[33mcommit 4a23a93d1b5e88d826ebdbd5d280550bee1a2611[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 23:05:53 2019 +0200
+
+    debug
+
+[33mcommit ba4665cf893b29c374028cd1b8546d42284f2c80[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 22:48:50 2019 +0200
+
+    debug
+
+[33mcommit fc6d2e963172e450b4b8c7da01d21ebea2a584b7[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 22:41:12 2019 +0200
+
+    debug
+
+[33mcommit 0a56b891c8da37b1bfc47b083198cd199031bea7[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 22:33:14 2019 +0200
+
+    debug
+
+[33mcommit 86cd957b30b722df5a184f80ccf9622bb83922bb[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 22:27:36 2019 +0200
+
+    debug
+
+[33mcommit ca2d703c36befcd80677001503c4aaeaf7dc5ffe[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 22:24:44 2019 +0200
+
+    debug
+
+[33mcommit 5e38ace288b878d77e936491e98d828ce682c182[m
+Author: Alex <lioy@opentag.it>
+Date:   Wed Oct 9 12:08:16 2019 +0200
+
+    prima commit

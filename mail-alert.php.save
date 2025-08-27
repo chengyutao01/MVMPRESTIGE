@@ -1,0 +1,72 @@
+<?php 
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+require_once('boot.ini.php');
+use classes\Models\Server;
+use classes\Models\Player;
+use Carbon\Carbon;
+use classes\Mail;
+$alert_threshold = getenv('ALERT_THRESHOLD_IN_MIN') ?? 60;
+
+
+
+$header = "From: alert@mvm-digital.com"; 
+
+if (($_GET['token'] ?? '') == 'a11ede13'){
+
+    echo "\n****************************\n".date('Y-m-d H:i:s').' ['.Carbon::now()->subMinutes($alert_threshold)->format('Y-m-d H:i:s').']';
+    
+    $servers = Server::where('last_ping_at', '<', Carbon::now()->subMinutes($alert_threshold)->format('Y-m-d H:i:s'))->get();
+    $players = Player::where('last_ping_at', '<', Carbon::now()->subMinutes($alert_threshold)->format('Y-m-d H:i:s'))->with('server')->get();
+   
+
+    foreach ($servers as $s){
+        //echo "$s->name ($s->id_server) <br>";
+        $msgServer = "Attention ! Le Cloud signale que le serveur local <b>$s->name</b> ne se connecte pas au serveur cloud pour les mises a jour. Vérifié l’installation : vérifié le router 4G et restarter le PC.";
+        echo "<hr>invio a: $s->alert_email:\n<br>$msgServer";
+        if ($s->alert_email != ''){
+            //$ret = mail($s->alert_email, 'Alert from Cloud', $msgServer,$header);
+            $mail_alert = new Mail('mvm','alert@mvm-digital.com','Alert from Cloud',$msgServer,'');
+            $mail_alert->SetSendMethod("sendgrid_v3");
+            $res = $mail_alert->Send($s->alert_email,$s->alert_email);
+            $res2 = $mail_alert->Send('alex.lioy@gmail.com','alex.lioy@gmail.com');
+            //echo $ret ? '...spedita!' : '...fallita!';
+            echo print_r($res,1);
+
+        }
+
+    }
+
+    foreach ($players as $p){
+        //echo "$p->ip_player ($p->id_server) <br>";
+        $msgPlayer = "Attention ! le serveur local <b>{$p->server->name}</b> signale que l’IP $p->ip_player ne se connecte pas au serveur local. Vérifié l’installation et restarter le PC.";
+        echo "<hr>invio a: {$p->server->alert_email}\n<br>$msgPlayer";   
+        if ($p->server->alert_emaill != ''){
+             //$ret =mail($p->server->alert_email, 'Alert from Serveur local {$p->server->name}', $msgPlayer, $header);
+             $mail_alert = new Mail('mvm','alert@mvm-digital.com','Alert from Cloud',$msgServer,'');
+             $mail_alert->SetSendMethod("sendgrid_v3");
+             $res = $mail_alert->Send($s->alert_email,$s->alert_email);             
+             //echo $ret ? '...spedita!' : '...fallita!';
+        }
+    }
+
+}
+
+if ( ($_GET['test_server_id'] ?? 0) > 0){
+     $s = Server::where('id_server', $_GET['test_server_id'])->first();
+     if (!$s) exit;
+     
+        $msgServer = "Attention ! Le Cloud signale que le serveur local <b>$s->name</b> ne se connecte pas au serveur cloud pour les mises a jour. Vérifié l’installation : vérifié le router 4G et restarter le PC.";
+        echo "<hr>invio a: $s->alert_email:\n<br>$msgServer";
+        if ($s->alert_email != ''){
+            //$ret = mail($s->alert_email, 'Alert from Cloud', $msgServer,$header);
+            $mail_alert = new Mail('mvm','alert@mvm-digital.com','Alert from Cloud',$msgServer,'');
+            $mail_alert->SetSendMethod("sendgrid_v3");
+            $res = $mail_alert->Send($s->alert_email,$s->alert_email);//
+            //echo $ret ? '...spedita!' : '...fallita!';
+            echo print_r($res,1);
+
+        }
+}
